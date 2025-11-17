@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main () {
     int i = 1;
@@ -6,4 +7,14 @@ int main () {
         i++;
     }
     return 0;
+=======
+#include<stdio.h>
+int main () {
+    int i = 1;
+    while (i<=100) {
+        printf("ANANYA SRIVASTAVA\n");
+        i++;
+    }
+    return 0;
+>>>>>>> 4c0cda1bdd65c1b3a06e980e78f870008171da14
 }
