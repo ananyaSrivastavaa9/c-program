@@ -7,5 +7,6 @@ int main() {
     printf("add of a is %p\n", &a);
     printf("what is ptr : %p\n", ptr);
     printf("value of (*ptr) is %d\n", *ptr);
+ 
     return 0;
 }
